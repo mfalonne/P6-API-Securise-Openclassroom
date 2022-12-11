@@ -33,7 +33,7 @@ Dans un terminal,dans le dossier du frontend, lancez "ng serve".
 Dans le dossier de backend, dans un terminal lancez "nodemon server", en ayant les clés stockées dans les variables d'environnement par mon biais. 
 Sans cela vous n'aurez pas accès a mongoDB.
 
-# Les principaux modules de node.js utilisé
+# Les principaux modules de node.js utilisés
 
 ### Express()
 Express est, pour faire court, un framework reposant sur Node, qui facilite la création et la gestion des serveurs Node.
